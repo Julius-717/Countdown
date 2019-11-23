@@ -9,6 +9,7 @@ body {
     background: transparent;
     color: red;
     background-image: url(../img/collage.jpg);
+    background-position: relative;
     
 }
 
